@@ -44,21 +44,7 @@ A high-energy, visually stunning, and fully responsive website for the music ban
 | **Auth**            | Clerk                     |
 | **Images / Videos** | Next/Image + local assets |
 
----
 
-## 📂 Project Setup
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/your-username/hostel-jammers.git
-```
-
-### 2️⃣ Navigate to project
-
-```bash
-cd hostel-jammers
-```
 
 ### 3️⃣ Install dependencies
 
